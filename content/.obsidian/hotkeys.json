@@ -1,0 +1,38 @@
+{
+  "editor:table-row-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:table-row-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:table-col-right": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "editor:table-col-left": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "ArrowLeft"
+    }
+  ]
+}
