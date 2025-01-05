@@ -2,7 +2,6 @@
 title: Hummus
 date: 2025-01-04
 draft: false
-permalink: hummus
 aliases:
   - hummous
 category: mezze

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guacamole.md",
+                "file": "Black beans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guacamole"
+              "title": "Black beans"
             }
           }
         ]
@@ -165,10 +165,10 @@
   },
   "active": "ee7486161a78e83e",
   "lastOpenFiles": [
-    "index.md",
-    "Black beans.md",
     "Guacamole.md",
     "Hummus.md",
+    "Black beans.md",
+    "index.md",
     "Categories",
     "This is a title.md",
     "_templates/default.md",

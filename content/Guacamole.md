@@ -6,7 +6,6 @@ tags:
   - Mexican
 region: Latin America
 draft: false
-permalink: guacamole
 ---
 I lived in New Mexico for 6 years and learned a few things, but probably none so valuable as making incredible guacamole. 
 

@@ -1,17 +1,18 @@
 ---
-
 title: Black beans
 date: 2025-01-04
 draft: false
-permalink: black-beans
 aliases: 
 category: soups
-tags: Mexican, tacos, Latin-American
+tags:
+  - Mexican
+  - tacos
+region: Latin America
 description: This is a base black bean recipe that can be used for everything.
 ---
 From Johnny’s memory.
 
-> IMPORTANT! Don’t actually measure any ingredients. I didn’t when I wrote this recipe.. Just use these amounts as an approximate guide. Same with time, it’s all approximate.  
+> 🚨 IMPORTANT! Don’t actually measure any ingredients. I didn’t when I wrote this recipe.. Just use these amounts as an approximate guide. Same with time, it’s all approximate.  
 
 > [!DANGER]+ 🥱 TL;DR
 > (read on for the [long version](#full-recipe))
@@ -47,6 +48,7 @@ From Johnny’s memory.
 | your choice | cumin or red chili flakes (optional)       |
 | 1.5 tsp     | salt                                       |
 | 1 - 2       | lime, juiced (or use vinegar)              |
+
 ### Steps
 
 #### Presoak the beans (night before):

@@ -1,6 +1,5 @@
 <%*
 let title = tp.file.title;
-let permalink = "";
 let category = "";
 let tags = "";
 let description = ""
@@ -15,7 +14,6 @@ function createPermalink(str) {
 if (title.startsWith("Untitled")) {
 	title = await tp.system.prompt("Title");
 	await tp.file.rename(title);
-	permalink = createPermalink(title);
 	category = await tp.system.prompt("Enter category (or press <RETURN> to skip)");
 	tags = await tp.system.prompt("Enter tag(s) separated by commas and without `#` (or press <RETURN> to skip)");
 	description = await tp.system.prompt("Enter a short description (or press <RETURN> to skip)");
@@ -26,7 +24,6 @@ tR += "---"
 title: <%* tR += title %>
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 draft: false
-permalink: <%* tR += permalink %>
 aliases: 
 category: <%* tR += category %>
 tags: <%* tR += tags %>
