@@ -38,16 +38,15 @@ intro...
 > 2. **Add** step 2
 > 3. etc.
 
-## Full recipe
-### Cooking time
+# Full recipe
+## Cooking time
 - 10 min
-### Ingredients
-
+## Ingredients
 
 | Amount     |  Ingredients |
 | --- | --- |
 | 1   | thing    |
 
-### Steps
+## Steps
 
-### To serve
+## To serve

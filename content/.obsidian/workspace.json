@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd63048f9cc247dc",
+        "id": "758c0a6f597f4b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "ee7486161a78e83e",
+            "id": "9cb0aee132d52689",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Black beans.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Black beans"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "f3b934314c08f0c4",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
@@ -139,13 +135,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,15 +162,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee7486161a78e83e",
+  "active": "9f7e551c1b98b1aa",
   "lastOpenFiles": [
-    "Guacamole.md",
-    "Hummus.md",
-    "Black beans.md",
+    "Breads and baking",
+    "Mains/Tofu scramble (dinner).md",
+    "Linked recipes.md",
+    "Mains/Spicy Vodka Rigatoni.md",
     "index.md",
+    "_assets/20250209_192250.jpg",
+    "_assets/20250105_094336.jpg",
+    "_assets/vodka-pasta-IMG_8091.jpg",
+    "Mains/Lentil burgers.md",
+    "Mains/Black beans.md",
+    "Dips and spreads/Hummus.md",
+    "Clippings/A cult US food writer shares 3 comforting dishes that make winter veg the star.md",
+    "Clippings",
+    "_assets/tofu_scramble_dinner_plated.webp",
+    "tofu_scramble_dinner_plated.webp",
+    "Beverages/Lemon water.md",
+    "Breads and baking/Whole wheat sourdough bread.md",
+    "_templates/default.md",
+    "Dips and spreads/Guacamole.md",
     "Categories",
     "This is a title.md",
-    "_templates/default.md",
     "_templates/Recipe.md",
     "about.md",
     "Test page.md",
@@ -181,10 +194,9 @@
     "Categories/South Asian",
     "Categories/Desserts",
     "Categories/Sides",
-    "Categories/Mains",
+    "Mains",
     "Categories/Soups",
-    "Categories/Appetizers",
-    "Categories/Salads Slaws and Bowls",
+    "Dips and spreads",
     "20250101_111335.jpg"
   ]
 }
