@@ -27,7 +27,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open"
+    }),
   ],
   right: [
     Component.Graph(),

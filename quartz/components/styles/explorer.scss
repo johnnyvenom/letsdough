@@ -31,7 +31,7 @@
   display: flex;
   height: 100%;
   flex-direction: column;
-  overflow-y: hidden;
+  overflow-y: visible;
 
   @media all and ($mobile) {
     order: -1;
@@ -123,8 +123,8 @@ button#desktop-explorer {
 
 #explorer-content {
   list-style: none;
-  overflow: hidden;
-  overflow-y: auto;
+  overflow: visible;
+  overflow-y: visible;
   max-height: 0px;
   transition:
     max-height 0.35s ease,
