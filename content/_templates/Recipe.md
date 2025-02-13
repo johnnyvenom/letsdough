@@ -11,8 +11,8 @@ region:
 {{summary}}
 
 ---
-> # 🥱 TL;DR
-> (read on for the [long version](#full-recipe))
+> # 🥱 TL;DR (read on for the [[#Full recipe|full recipe]])
+> 
 > 1. Step 1
 > 2. Step 2
 > 3. etc.

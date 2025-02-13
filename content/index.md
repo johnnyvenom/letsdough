@@ -11,8 +11,10 @@ Hi. I'm Johnny. Welcome to **Let's Dough**, a recipe Rolodex put together by [my
 ## Recipes so far
 
 - 🍋 [[Lemon water]]
+- 🥗 [[Salad dressing|Mandeep's salad dressing]] ✨ new recipe!
 - 🥑 [[Guacamole]]
 - 🥙 [[Hummus]]
+- 🍲 [[Potato Leek Soup]] ✨ new recipe!
 - 🌮 [[Black beans]]
 - 🍔 [[Lentil burgers]]
 - 🍝 [[Spicy Vodka Rigatoni]] ✨ new recipe!
